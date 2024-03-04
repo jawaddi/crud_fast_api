@@ -1,0 +1,8 @@
+|
+|___FastAPI
+      |
+      |__main.py
+      |__app
+      |
+      ----__init__.py
+      |__app.py
